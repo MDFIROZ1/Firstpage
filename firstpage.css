@@ -1,0 +1,527 @@
+*{
+	background-color: #4caf84;
+}
+
+.wholeclass{
+	padding: 0% 2% 2% 2%;
+}
+
+.wholeclass h1 {
+	display: flex;	
+	position: -webkit -sticky;
+	position: sticky;
+	top:0;
+	text-align: right;
+	padding: 2% 0% 0% 0%;
+	border-radius: 0px;
+	color: black;
+	font-size: 30px;
+}
+.wholeclass a{
+	position: -webkit -sticky;
+	color: white;
+	cursor: pointer;
+}
+
+#Back{
+	background-color: black;
+	color: white;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+	border-radius:4px; 
+	width: 30%;
+	float: center;
+}
+
+#Back:hover{
+	background-color: white;
+	color: black;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+	border-radius:4px; 
+	width: 30%;
+}
+
+.wholeclass p{
+	text-align: center;
+}
+
+h3{
+	width:100%;
+	color: black;
+	text-align: center;
+	padding:0px;
+}
+
+.row{ 
+	box-sizing: border-box;
+	width: 100%;
+	padding-left: 0em;
+}
+
+.blocked{
+	width: 60%;
+	float:left;
+	padding: 0rem 3rem 2rem 2rem;
+	border: 5px solid #333;
+	border-radius: 5px;
+	margin: 0% 0% 3% 13%;
+}
+
+.blocked h3{
+	text-align: center;
+	padding-top: 0rem;
+}
+
+.blocked img{ 
+	width: 50%; 
+	padding:0rem 0rem 1rem 5rem; 
+}
+
+.blocked p{
+	text-align: center;
+	width: 100%;
+}
+
+#Back1{
+	float:center;
+	background-color: black;
+	color: white;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+	border-radius: 30px;
+}
+
+#Back1:hover{
+	float: center;
+	background-color:white;
+	color: black;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+}
+
+footer{
+		color: black;
+		padding-left: 15%;
+}
+
+.cleared{
+	clear: left;
+	padding-top: 10px;
+}
+#Back2{
+	float: left;
+	background-color: black;
+	color: white;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+	border-radius: 0px;
+}
+
+#Back2:hover{
+	float: left;
+	background-color: white;
+	color: black;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+}
+.clear{
+	clear: left;
+	padding: 3rem 0rem 1rem 0rem;
+	font-weight: 900;
+	text-align: center;
+}
+
+.Back3{
+	padding: 2rem 0rem 0rem 4.5rem;
+	clear: left;
+}
+
+#Back3{
+	color: white;
+	padding: 12px 20px;
+	cursor: pointer;
+	background-color: black;
+	border: none;
+	border-radius:10px;
+}
+
+
+#Back3:hover{
+	color: black;
+	background-color: white;
+}
+.two #Media a {
+	text-decoration: none;
+}
+.two #Resume a {
+	text-decoration: none;
+	color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 768px){
+
+*{
+	background-color:#4caf84;
+}
+
+.wholeclass h1 {	
+	position: -webkit -sticky;
+	position: sticky;
+	top:0;
+	text-align: left;
+	padding: 2rem 0rem 0rem 0rem;
+	border-radius: 0px;
+	color: black;
+}
+.wholeclass a {
+	position: -webkit -sticky;
+	color: white;
+	cursor: pointer;
+	width: 0%;
+	padding:5rem 0rem 0rem 0rem;
+}
+
+#Back{
+	background-color: black;
+	color: white;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+	border-radius:4px; 
+	width: 20%;
+	float: center;
+}
+
+#Back:hover{
+	background-color:white;
+	color: black;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+	border-radius:4px; 
+	width: 20%;
+}
+
+.wholeclass p{
+	text-align: center;
+}
+
+
+.blocked{
+	width: 40%;
+	float:left;
+	padding:1rem 1rem 1rem 0rem;
+	border: 4px solid #333;
+	border-radius: 5px;
+	margin: 3px;
+}
+
+.blocked h3{
+	text-align: center;
+}
+	
+.blocked img{ 
+	width: 50%; 
+	padding:1rem 0rem 1rem 4rem; 
+}
+
+.blocked p{
+	text-align: left;
+	padding-left: 3%;
+	width: 100%;
+}
+
+#Back1{
+	float: right;
+	background-color: black;
+	color: white;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+	border-radius: 30px;
+}
+
+#Back1:hover{
+	float: right;
+	background-color:white;
+	color: black;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+}
+
+footer{
+		color: black;
+		padding-left: 2rem;
+}
+
+.cleared{
+	clear: left;
+	padding-top: 10px;
+}
+#Back2{
+	float: left;
+	background-color: black;
+	color: white;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+	border-radius: 0px;
+}
+
+#Back2:hover{
+	float: left;
+	background-color: white;
+	color: black;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+}
+.clear{
+	clear: left;
+	padding-top: 20px;
+}
+
+.Back3{
+	padding-left: 2rem;
+}
+.one{ 
+	box-sizing: border-box;
+	width: 100%;
+	padding: 1rem;
+}
+
+.two{
+	width: 30%;
+	float:left;
+	border: 0px solid #333;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 1080px){
+
+*{
+	background-color: #4caf84;
+}
+
+
+.wholeclass h1 {
+	position: -webkit -sticky;
+	position: sticky;
+	top:0;	
+	text-align: center;
+}
+.wholeclass a {
+	padding: 2rem 0rem 0rem  0rem;
+}
+
+#Back{
+	background-color: black;
+	color: white;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+	border-radius:4px; 
+	width: 15%;
+	float: center;
+}
+
+#Back:hover{
+	background-color: white;
+	color: black;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+	border-radius:4px; 
+	width: 15%;
+}
+
+.row{ 
+	box-sizing: border-box;
+	width: 100%;
+	padding-left: 0em;
+}
+
+.blocked{
+	width: 21.3%;
+	float:center;
+	padding:0rem 2rem 2rem 2rem;
+	border: 5px solid #333;
+	border-radius: 5px;
+	margin: 3px;
+}
+
+.blocked img{ 
+	width: 60%; 
+	padding:1rem 0rem 1rem 2.5rem; 
+}
+
+#Back1{
+	float: left;
+	background-color: black;
+	color: white;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+	border-radius: 30px;
+}
+
+#Back1:hover{
+	float: left;
+	background-color:white;
+	color: black;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+}
+.one{ 
+	box-sizing: border-box;
+	width: 100%;
+	padding: 1rem;
+}
+
+.two{
+	width: 33%;
+	float:left;
+	border: 0px solid #333;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width:1440px){
+*{
+	background-color:#4caf84;
+}
+
+.wholeclass h1 {
+	position: -webkit -sticky;
+	position: sticky;
+	top:0;	
+	text-align: center;
+	padding:0% 0% 0% 25%;
+	font-size: 50px;
+}
+
+#Back{
+	background-color: black;
+	color: white;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+	border-radius:4px; 
+	width: 15%;
+	float: center;
+}
+
+#Back:hover{
+	background-color: white;
+	color: black;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+	border-radius:4px; 
+	width: 15%;
+}
+
+#Back1{
+	float: left;
+	background-color: black;
+	color: white;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+	border-radius: 30px;
+}
+
+#Back1:hover{
+	float: left;
+	background-color:white;
+	color: black;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+}
+
+#Back2{
+	float: left;
+	background-color: black;
+	color: white;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+	border-radius: 0px;
+}
+
+#Back2:hover{
+	float: left;
+	background-color: white;
+	color: black;
+	padding: 12px 20px;
+	cursor: pointer;
+	border: none;
+}
+.one{ 
+	box-sizing: border-box;
+	width: 100%;
+	padding: 1rem;
+}
+
+.two{
+	width: 25%;
+	float:left;
+	border: 0px solid #333;
+}
+.clear{
+	clear: left;
+	padding: 3rem 0rem 2rem 0rem;
+	text-align: center;
+	font-weight: 900;
+}
+.two #Media a {
+	text-decoration: none;
+}
+.two #Resume a {
+	text-decoration: none;
+	color: blue;
+}
+}
